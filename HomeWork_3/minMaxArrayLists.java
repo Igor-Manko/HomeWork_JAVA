@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.OptionalDouble;
 import java.util.logging.Logger;
 
-public class minMaxArrayLists {
+public class MinMaxArrayLists {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<Integer>();
         list.add(-2);
